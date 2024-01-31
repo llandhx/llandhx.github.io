@@ -1,0 +1,25 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Home/Hindx",
+    "pages/Home/Home",
+    "pages/Home/Classification",
+    "pages/Home/FoodSearch",
+    "pages/Home/Massage",
+    "pages/Collect/Folder",
+    "pages/Collect/Unclassified",
+    "pages/Collect/NavigationC",
+    "pages/Collect/Recommendation",
+    "pages/Collect/FolderInside",
+    "pages/Collect/CookBook",
+    "pages/Video/Video1",
+    "pages/Video/Video2",
+    "pages/My/Page1",
+    "pages/My/Bighead",
+    "pages/My/shezhi",
+    "pages/My/zhengce",
+    "pages/My/guanzhu",
+    "pages/My/Zan",
+    "pages/Home/Demo"
+  ]
+}
